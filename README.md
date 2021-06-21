@@ -32,3 +32,5 @@ Now in order to run this script you need to be the root user.Simply do :
 ```
 sudo python3 surge.py
 ```
+<img src = "https://github.com/Kushal-kothari/Yggdrasil_UI/blob/main/images/Screenshot%20from%202021-06-22%2001-57-34.png">
+<img src = "https://github.com/Kushal-kothari/Yggdrasil_UI/blob/main/images/Screenshot%20from%202021-06-22%2001-57-16.png">
